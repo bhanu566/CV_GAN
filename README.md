@@ -7,4 +7,4 @@ computer vision project
     </embed>
 </object>
 
-![CV poster](demo/0.jfif)
+
